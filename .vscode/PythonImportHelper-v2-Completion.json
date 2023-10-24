@@ -1,0 +1,555 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "littlelemon.asgi",
+        "description": "littlelemon.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "littlelemon.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-r-%0eqcja86asp_+*1@3d6t9wm65$7^p*v^m961p@)w7*3ob0n'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-r-%0eqcja86asp_+*1@3d6t9wm65$7^p*v^m961p@)w7*3ob0n'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    # The settings for app updated for the Graded assessment",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    # The settings for app updated for the Graded assessment\n    'restaurant',\n]",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'littlelemon.urls'",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "ROOT_URLCONF = 'littlelemon.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        # The settings for templates updated for the Graded assessment\n        'DIRS': ['restaurant/templates' ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        # The settings for templates updated for the Graded assessment\n        'DIRS': ['restaurant/templates' ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'littlelemon.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'reservations',\n        'HOST' : '127.0.0.1',\n        'PORT' : '3306',\n        'USER' : 'admin',",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'reservations',\n        'HOST' : '127.0.0.1',\n        'PORT' : '3306',\n        'USER' : 'admin',\n        'PASSWORD' : 'password',\n    }\n}",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\n# The settings for static files have been updated for the Graded assessment\nSTATIC_URL = 'restaurant/static/'\nSTATICFILES_DIRS = [\n    \"restaurant/static\",",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\n# The settings for static files have been updated for the Graded assessment\nSTATIC_URL = 'restaurant/static/'\nSTATICFILES_DIRS = [\n    \"restaurant/static\",\n]",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\n# The settings for static files have been updated for the Graded assessment\nSTATIC_URL = 'restaurant/static/'\nSTATICFILES_DIRS = [\n    \"restaurant/static\",\n]\n# Default primary key field type",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\n# The settings for static files have been updated for the Graded assessment\nSTATIC_URL = 'restaurant/static/'\nSTATICFILES_DIRS = [\n    \"restaurant/static\",\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "STATIC_URL = 'restaurant/static/'\nSTATICFILES_DIRS = [\n    \"restaurant/static\",\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    \"restaurant/static\",\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "littlelemon.settings",
+        "description": "littlelemon.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "littlelemon.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "littlelemon.urls",
+        "description": "littlelemon.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('restaurant.urls')),\n]",
+        "detail": "littlelemon.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "littlelemon.wsgi",
+        "description": "littlelemon.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "littlelemon.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "restaurant.migrations.0001_initial",
+        "description": "restaurant.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Booking',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('first_name', models.CharField(max_length=200)),",
+        "detail": "restaurant.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "restaurant.migrations.0002_menu_menu_item_description",
+        "description": "restaurant.migrations.0002_menu_menu_item_description",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('restaurant', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='menu',\n            name='menu_item_description',\n            field=models.TextField(default='', max_length=1000),\n        ),",
+        "detail": "restaurant.migrations.0002_menu_menu_item_description",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "restaurant.migrations.0003_remove_booking_comment_remove_booking_guest_number_and_more",
+        "description": "restaurant.migrations.0003_remove_booking_comment_remove_booking_guest_number_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('restaurant', '0002_menu_menu_item_description'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='booking',\n            name='comment',\n        ),\n        migrations.RemoveField(",
+        "detail": "restaurant.migrations.0003_remove_booking_comment_remove_booking_guest_number_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantConfig",
+        "kind": 6,
+        "importPath": "restaurant.apps",
+        "description": "restaurant.apps",
+        "peekOfCode": "class RestaurantConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'restaurant'",
+        "detail": "restaurant.apps",
+        "documentation": {}
+    },
+    {
+        "label": "BookingForm",
+        "kind": 6,
+        "importPath": "restaurant.forms",
+        "description": "restaurant.forms",
+        "peekOfCode": "class BookingForm(ModelForm):\n    class Meta:\n        model = Booking\n        fields = \"__all__\"",
+        "detail": "restaurant.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Booking",
+        "kind": 6,
+        "importPath": "restaurant.models",
+        "description": "restaurant.models",
+        "peekOfCode": "class Booking(models.Model):\n    first_name = models.CharField(max_length=200)\n    reservation_date = models.DateField()\n    reservation_slot = models.SmallIntegerField(default=10)\n    def __str__(self): \n        return self.first_name\n# Add code to create Menu model\nclass Menu(models.Model):\n   name = models.CharField(max_length=200) \n   price = models.IntegerField(null=False) ",
+        "detail": "restaurant.models",
+        "documentation": {}
+    },
+    {
+        "label": "Menu",
+        "kind": 6,
+        "importPath": "restaurant.models",
+        "description": "restaurant.models",
+        "peekOfCode": "class Menu(models.Model):\n   name = models.CharField(max_length=200) \n   price = models.IntegerField(null=False) \n   menu_item_description = models.TextField(max_length=1000, default='') \n   def __str__(self):\n      return self.name",
+        "detail": "restaurant.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "restaurant.urls",
+        "description": "restaurant.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name=\"home\"),\n    path('about/', views.about, name=\"about\"),\n    path('book/', views.book, name=\"book\"),\n    path('reservations/', views.reservations, name=\"reservations\"),\n    path('menu/', views.menu, name=\"menu\"),\n    path('menu_item/<int:pk>/', views.display_menu_item, name=\"menu_item\"),  \n    path('bookings', views.bookings, name='bookings'), \n]",
+        "detail": "restaurant.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "restaurant.views",
+        "description": "restaurant.views",
+        "peekOfCode": "def home(request):\n    return render(request, 'index.html')\ndef about(request):\n    return render(request, 'about.html')\ndef reservations(request):\n    date = request.GET.get('date',datetime.today().date())\n    bookings = Booking.objects.all()\n    booking_json = serializers.serialize('json', bookings)\n    return render(request, 'bookings.html',{\"bookings\":booking_json})\ndef book(request):",
+        "detail": "restaurant.views",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "restaurant.views",
+        "description": "restaurant.views",
+        "peekOfCode": "def about(request):\n    return render(request, 'about.html')\ndef reservations(request):\n    date = request.GET.get('date',datetime.today().date())\n    bookings = Booking.objects.all()\n    booking_json = serializers.serialize('json', bookings)\n    return render(request, 'bookings.html',{\"bookings\":booking_json})\ndef book(request):\n    form = BookingForm()\n    if request.method == 'POST':",
+        "detail": "restaurant.views",
+        "documentation": {}
+    },
+    {
+        "label": "reservations",
+        "kind": 2,
+        "importPath": "restaurant.views",
+        "description": "restaurant.views",
+        "peekOfCode": "def reservations(request):\n    date = request.GET.get('date',datetime.today().date())\n    bookings = Booking.objects.all()\n    booking_json = serializers.serialize('json', bookings)\n    return render(request, 'bookings.html',{\"bookings\":booking_json})\ndef book(request):\n    form = BookingForm()\n    if request.method == 'POST':\n        form = BookingForm(request.POST)\n        if form.is_valid():",
+        "detail": "restaurant.views",
+        "documentation": {}
+    },
+    {
+        "label": "book",
+        "kind": 2,
+        "importPath": "restaurant.views",
+        "description": "restaurant.views",
+        "peekOfCode": "def book(request):\n    form = BookingForm()\n    if request.method == 'POST':\n        form = BookingForm(request.POST)\n        if form.is_valid():\n            form.save()\n    context = {'form':form}\n    return render(request, 'book.html', context)\n# Add your code here to create new views\ndef menu(request):",
+        "detail": "restaurant.views",
+        "documentation": {}
+    },
+    {
+        "label": "menu",
+        "kind": 2,
+        "importPath": "restaurant.views",
+        "description": "restaurant.views",
+        "peekOfCode": "def menu(request):\n    menu_data = Menu.objects.all()\n    main_data = {\"menu\": menu_data}\n    return render(request, 'menu.html', {\"menu\": main_data})\ndef display_menu_item(request, pk=None): \n    if pk: \n        menu_item = Menu.objects.get(pk=pk) \n    else: \n        menu_item = \"\" \n    return render(request, 'menu_item.html', {\"menu_item\": menu_item}) ",
+        "detail": "restaurant.views",
+        "documentation": {}
+    },
+    {
+        "label": "display_menu_item",
+        "kind": 2,
+        "importPath": "restaurant.views",
+        "description": "restaurant.views",
+        "peekOfCode": "def display_menu_item(request, pk=None): \n    if pk: \n        menu_item = Menu.objects.get(pk=pk) \n    else: \n        menu_item = \"\" \n    return render(request, 'menu_item.html', {\"menu_item\": menu_item}) \n@csrf_exempt\ndef bookings(request):\n    if request.method == 'POST':\n        data = json.load(request)",
+        "detail": "restaurant.views",
+        "documentation": {}
+    },
+    {
+        "label": "bookings",
+        "kind": 2,
+        "importPath": "restaurant.views",
+        "description": "restaurant.views",
+        "peekOfCode": "def bookings(request):\n    if request.method == 'POST':\n        data = json.load(request)\n        exist = Booking.objects.filter(reservation_date=data['reservation_date']).filter(\n            reservation_slot=data['reservation_slot']).exists()\n        if exist==False:\n            booking = Booking(\n                first_name=data['first_name'],\n                reservation_date=data['reservation_date'],\n                reservation_slot=data['reservation_slot'],",
+        "detail": "restaurant.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'littlelemon.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
